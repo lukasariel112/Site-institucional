@@ -1,0 +1,16 @@
+.App {
+  font-family: Arial, sans-serif;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 40px;
+}
+
+h2 {
+  font-size: 1.5rem;
+  color: #333;
+}
